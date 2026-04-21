@@ -8,45 +8,6 @@
 
 RAG is the standard for building production-grade LLM applications that are grounded in your data. This repository helps you navigate the rapidly evolving landscape of vector databases, embedding models, and orchestration frameworks.
 
----
-
-## 📚 Table of Contents
-- [Essential Papers](#essential-papers)
-- [Frameworks](#frameworks)
-- [Vector Databases](#vector-databases)
-- [Embedding Models](#embedding-models)
-- [Evaluation Tools](#evaluation-tools)
-- [Implementation Patterns](#implementation-patterns)
-
----
-
-## 📄 Essential Papers
-- **Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks** (Lewis et al., 2020) - The foundational paper.
-- **RAG-Survey: A Survey on Retrieval-Augmented Generation** (Gao et al., 2024) - Comprehensive modern overview.
-
-## 🛠️ Frameworks
-- **[LlamaIndex](https://www.llamaindex.ai/)** - Data framework for LLM applications.
-- **[LangChain](https://www.langchain.com/)** - Building applications with LLMs through composability.
-- **[Haystack](https://haystack.deepset.ai/)** - Open-source NLP framework to interact with your data.
-
-## 🗄️ Vector Databases
-- **[Pinecone](https://www.pinecone.io/)** - Managed vector database for high performance.
-- **[Milvus](https://milvus.io/)** - Open-source, highly scalable vector database.
-- **[Chroma](https://www.trychroma.com/)** - The AI-native open-source embedding database.
-
-## 🧠 Embedding Models
-- **OpenAI `text-embedding-3-small/large`** - Current industry standard.
-- **HuggingFace `sentence-transformers`** - Best open-source embeddings.
-
----
-
-## 🛡️ Keywords & SEO
-`awesome-rag`, `retrieval-augmented-generation`, `llm-patterns`, `vector-database`, `embeddings`, `ai-engineering`, `langchain`, `llamaindex`, `stackaura`, `ahmar-hussain`.
-
----
-
-## 📄 License
-Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
@@ -65,3 +26,4 @@ If you found this tool useful, check out our other high-performance web utilitie
 - **Author:** [Ahmar Hussain](https://github.com/RanaAhmar)
 
 ---
+
